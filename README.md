@@ -2,7 +2,10 @@ BIGLAUNCH
 ===================================
 
 Cross-Chain Repository of All Crypto/NFT Launches & Multi-Chain Launchpad.
-[Website](https://biglaunch.io/)
+
+Website
+===================================
+[View](https://biglaunch.io/)
 
 ## Contract BSCScan Link
 ===================================
