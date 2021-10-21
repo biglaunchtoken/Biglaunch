@@ -3,9 +3,6 @@ BIGLAUNCH
 
 Cross-Chain Repository of All Crypto/NFT Launches & Multi-Chain Launchpad.
 
-Website
-===================================
-[View](https://biglaunch.io/)
 
 ## Contract BSCScan Link
 ===================================
@@ -26,3 +23,7 @@ Website
 * [LIFE FORCE - 1%](https://biglaunch.io/#tokenomics) This tax will directly go into our liquidity and keep up the life force of the token.
 * [EQUILIBRIUM TAX - 4% (EXTRA 1% ON SELLS)](https://biglaunch.io/#tokenomics) This tax will go into our buy back wallet and will be strategically used to buy back the token and keep the price action up.
 
+
+Website
+===================================
+[View](https://biglaunch.io/)
